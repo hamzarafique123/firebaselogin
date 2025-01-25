@@ -1,0 +1,16 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>logout</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-avatar>
+    <img src="{{user.imageUrl}}" alt="">
+  </ion-avatar>  
+  <p>Name:{{user.givenName}}{{user.familyName}}</p>
+  <p>Email:{{user.email}}</p>
+  
+    <ion-button (click)="logout()">Logout</ion-button>
+    
+</ion-content>

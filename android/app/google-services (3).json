@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817621559306",
+    "project_id": "fir-login-299b8",
+    "storage_bucket": "fir-login-299b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817621559306:android:3287495bcf98c4e7c057f3",
+        "android_client_info": {
+          "package_name": "com.hamza.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817621559306-ava97etfuv08si8773pck0ffpur9mb7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamza.login",
+            "certificate_hash": "b7cce7057ba636f20d88c7d3eaa41955de349432"
+          }
+        },
+        {
+          "client_id": "817621559306-bifqm2egi6p4c57idr49qqhq6qkdd6jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCuzCisTzpOlPOZNKjKRapcBqRuw2kaAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817621559306-bifqm2egi6p4c57idr49qqhq6qkdd6jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
